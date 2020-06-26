@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Website of Jane Doe</title>
+    <link>websites/post/</link>
+    <description>Recent content in Posts on Website of Jane Doe</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 06 Jun 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="websites/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Activities &amp; Interests</title>
+      <link>websites/post/5activities-interests/</link>
+      <pubDate>Sat, 06 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>websites/post/5activities-interests/</guid>
+      <description>Social activities 2012 – 2013: Member of the Students Union - Awareness and social responsibility committee - MIU.</description>
+    </item>
+    
+    <item>
+      <title>Internship</title>
+      <link>websites/post/internship/</link>
+      <pubDate>Tue, 26 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>websites/post/internship/</guid>
+      <description>Nomad Business Software - Karlsruhe - Germany In 2014 , I made there for roughly one month an internship.</description>
+    </item>
+    
+    <item>
+      <title>Professional career</title>
+      <link>websites/post/1professional-career/</link>
+      <pubDate>Tue, 26 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>websites/post/1professional-career/</guid>
+      <description>&amp;ldquo;Cheops Export-Import&amp;rdquo; Firm From 2012 until 2018 I worked as an administrative assistant in &amp;ldquo;Cheops Export-Import&amp;rdquo;.</description>
+    </item>
+    
+    <item>
+      <title>Education</title>
+      <link>websites/post/3education/</link>
+      <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>websites/post/3education/</guid>
+      <description>Collège De La Salle - Frère - Daher, Egypt(1998-2012) I spent all different school cycle (nursery school, primary,preparatory , high school) in College De La Salle, where i learnt to be well disciplined , accurate and ambitious.</description>
+    </item>
+    
+    <item>
+      <title>Skills</title>
+      <link>websites/post/4skills/</link>
+      <pubDate>Fri, 08 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>websites/post/4skills/</guid>
+      <description>Language skills French: Very Good command of both spoken and written English: IELTS Certificate Level B2 German: telc C1 Hochscule Arabic: Mother tongue Computer skills C++ Programming Java PHP JavaScript Photoshop Microsoft Office Python HTML, C# Android Developing Json.</description>
+    </item>
+    
+  </channel>
+</rss>
